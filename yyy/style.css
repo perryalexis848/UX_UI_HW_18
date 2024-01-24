@@ -1,0 +1,90 @@
+
+    body {
+      background-color: E7EFFC;
+    }
+    
+    h1 {
+      color: #1E1E1E;
+      font-family: Audiowide;
+      font-size: 72px;
+      font-weight: 400;
+      line-height: 92px;
+      letter-spacing: 0em;
+      text-align: center;
+
+
+    }
+  
+    h2{
+    font-family: Audiowide;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+
+  }
+
+  p{
+    font-family: 'Changa', sans-serif;
+    color: #1E1E1E;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 37px;
+    text-align: left;
+    padding: 140px;
+ }  
+
+ .topnav {
+  font-family: "Audiowide", sans-serif;
+  color: #1E1E1E;
+  overflow: hidden;
+background-color: #E7EFFC;
+}
+​
+/* Style the topnav links */
+.topnav a {
+float: right;
+display: block;
+color: #1E1E1E;
+padding: 40px 40px;
+text-decoration: none;
+}
+​
+/* Change color on hover */
+.topnav a:hover {
+background-color: #E7EFFC;
+color: black;
+}
+  
+  
+.responsive {
+width: 100%;
+height: auto;
+}  
+.center {
+display: block;
+margin-left: 30%;
+margin-right: 70%;
+width: 40;
+}
+
+div.a {
+  border: 1px solid #E7EFFC;
+  background-color: #E7EFFC;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+}
+
+
+div.b {
+    border: 1px solid #E7EFFC;
+  background-color: #E7EFFC;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+
+
+
